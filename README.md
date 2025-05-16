@@ -1,72 +1,34 @@
-# SoMeDocs AI Assistant
+💬 SomeDocs Chatbot (Gemini API)
+SomeDocs Chatbot is an intelligent AI-powered chatbot that helps users interact with custom documentation or knowledge bases using natural language. Powered by Gemini API, it's fast, responsive, and easy to integrate into modern apps.
 
-A modern AI-powered chatbot for the SoMeDocs (Doctors on Social Media) platform, built with React, TypeScript, and Google's Gemini AI.
+✨ Features
+🤖 AI chat using Gemini API
 
-## Features
+📄 Context-aware responses from custom documentation
 
-- 🤖 AI-powered responses using Google's Gemini Pro
-- 👩‍⚕️ Access to verified medical professionals directory
-- 💬 Real-time chat interface with smooth animations
-- 🎯 Precise and focused responses
-- 📱 Responsive design for all devices
+🖥️ Sleek UI with Tailwind CSS + ShadCN UI
 
-## Tech Stack
+⚡ Built with React, Vite, and TypeScript
 
-- React + TypeScript
-- Vite
-- Google Generative AI
-- Tailwind CSS
-- Shadcn/ui Components
-- Framer Motion
+🧪 Tech Stack
+React + Vite
 
-## Getting Started
+TypeScript
 
-1. Clone the repository:
-```bash
-git clone https://github.com/maliktanveerdhool/somedocs-chatbot.git
-cd somedocs-chatbot
-```
+Tailwind CSS
 
-2. Install dependencies:
-```bash
-npm install
-```
+ShadCN UI
 
-3. Create a `.env` file in the root directory and add your Google API key:
-```
-VITE_GOOGLE_API_KEY=your_gemini_api_key_here
-```
+Gemini API
 
-4. Start the development server:
-```bash
-npm run dev
-```
+🚀 Use Cases
+Documentation chatbot for support
 
-## Environment Variables
+Internal knowledge base assistant
 
-- `VITE_GOOGLE_API_KEY`: Your Google Gemini API key
+AI customer interaction widget
 
-## Available Scripts
-
-- `npm run dev`: Start development server
-- `npm run build`: Build for production
-- `npm run preview`: Preview production build
-- `npm run lint`: Run ESLint
-
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License.
-
-## Acknowledgments
-
-- SoMeDocs platform and its community of medical professionals
-- Google's Gemini AI for powering the chatbot
-- All the verified doctors who contribute to the platform
+💼 Developer Info
+Created by Malik Tanveer at MTD Technologies
+🌐 https://malik.mtdtechnologies.com/
+🌐 https://mtdtechnologies.com/
